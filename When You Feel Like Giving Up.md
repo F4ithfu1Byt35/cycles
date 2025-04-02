@@ -1,5 +1,5 @@
 ---
-title: When Others Can’t See What You See
+title: When You Feel Like Giving Up
 menu_order: 1
 post_status: publish
 taxonomy:
