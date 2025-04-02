@@ -6,10 +6,10 @@ taxonomy:
     category:
         - Cycles
 ---
-## Faithful Bytes: When You Feel Like Giving Up
+# Faithful Bytes: When You Feel Like Giving Up
 *Real Life. Real Struggles. Real Truth.*
 
-### Daily Byte:
+## Daily Byte:
 “I keep speaking up. I keep trying. But it feels like no one hears me, no one helps. I'm ready to give up.”
 
 ### Biblical Truth:
