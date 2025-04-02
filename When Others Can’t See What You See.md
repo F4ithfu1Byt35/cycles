@@ -15,12 +15,12 @@ taxonomy:
 ### Biblical Truth:
 Even when no one else sees your effort, God does. When your voice feels unheard, He hears.
 
-“And let us not grow weary while doing good, for in due season we shall reap if we do not lose heart.” – Galatians 6:9 (NKJV)
+**“And let us not grow weary while doing good, for in due season we shall reap if we do not lose heart.” <sub>Galatians 6:9 (NKJV)</sub>**
 
-“The eyes of the Lord are on the righteous, and His ears are open to their cry.” – Psalm 34:15 (NKJV)
+**“The eyes of the Lord are on the righteous, and His ears are open to their cry.” <sub>Psalm 34:15 (NKJV)</sub>**
 
-“Be strong and of good courage, do not fear nor be afraid of them; for the Lord your God, He is the One who goes with you. He will not leave you nor forsake you.” – Deuteronomy 31:6 (NKJV)
+**“Be strong and of good courage, do not fear nor be afraid of them; for the Lord your God, He is the One who goes with you. He will not leave you nor forsake you.” <sub> Deuteronomy 31:6 (NKJV)</sub>**
 
-Quick Word:
+### Quick Word:
 Your effort is not wasted. Faithfulness isn’t always loud—it’s often quiet persistence. God sees. God hears. Stay the course.
 
