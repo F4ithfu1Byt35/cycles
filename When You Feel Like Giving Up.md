@@ -1,7 +1,8 @@
 ---
 title: When You Feel Like Giving Up!
 menu_order: 1
-post_status: publish
+post_status: future
+post_date: 2025-04-04 08:35:59
 taxonomy:
     category:
         - Cycles
