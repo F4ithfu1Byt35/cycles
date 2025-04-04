@@ -2,7 +2,7 @@
 title: When You Feel Like Giving Up!
 menu_order: 1
 post_status: future
-post_date: 2025-05-04 09:00:00
+post_date: 2025-04-04 10:00:00
 taxonomy:
     category:
         - Cycles
